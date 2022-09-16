@@ -1,2 +1,2 @@
 # java-games
-This is some stuff I wrote back in high school to explore some Java native UI
+These are some code I wrote back in high school to explore some Java native UI
